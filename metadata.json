@@ -1,0 +1,6 @@
+{
+  "name": "Maharashtra Tourism & Trip Cost Guide",
+  "description": "Explore all tourist places, hill stations, beaches, historic forts, and pilgrimage sites across Maharashtra with detailed trip cost breakdowns and itinerary estimates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
